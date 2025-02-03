@@ -8,6 +8,7 @@ setup(
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/YoonSuckYall',
     packages=find_packages(exclude=[]),
+    install_requires=['YoonSuckYall',],
     keywords=['Yoon', "YoonSuckYall", "Martial", "Law"],
     python_requires='>=3.4',
     package_data={},
